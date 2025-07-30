@@ -728,7 +728,7 @@
         <location filename="../src/qml/User/Main.qml" line="221"/>
         <location filename="../src/qml/WLAN/Main.qml" line="101"/>
         <source>→</source>
-        <translation type="unfinished"></translation>
+        <translation>→</translation>
     </message>
     <message>
         <location filename="../src/qml/Wallpaper/Main.qml" line="14"/>
@@ -970,7 +970,7 @@
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="30"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicações padrão</translation>
     </message>
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="50"/>
@@ -1307,7 +1307,7 @@
     <message>
         <location filename="../src/qml/SideBar.qml" line="207"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicações padrão</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="217"/>
