@@ -87,7 +87,7 @@
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="89"/>
         <source>Password</source>
-        <translation type="unfinished">كلمة المرور</translation>
+        <translation>Паролэ</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="114"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="120"/>
         <source>Connect</source>
-        <translation type="unfinished">توصيل</translation>
+        <translation>Конектаре</translation>
     </message>
 </context>
 <context>
@@ -541,7 +541,7 @@
     <message>
         <location filename="../src/qml/Dock/Main.qml" line="36"/>
         <source>Full</source>
-        <translation type="unfinished">كامل</translation>
+        <translation>Комплект</translation>
     </message>
     <message>
         <location filename="../src/qml/Dock/Main.qml" line="43"/>
@@ -625,141 +625,141 @@
     <message>
         <location filename="../src/qml/Power/Main.qml" line="118"/>
         <source>Turn off screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Оприря екранулуй дупэ о периоадэ де инактивитате</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="126"/>
         <source>2 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>2 минуте</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="127"/>
         <source>5 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 минуте</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="128"/>
         <source>10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 минуте</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="129"/>
         <source>15 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 минуте</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="130"/>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 де минуте</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="131"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Нич кынд</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="163"/>
         <source>Hibernate after screen is turned off</source>
-        <translation type="unfinished"></translation>
+        <translation>Тречере ын старе де Хибернаре дупэ че екранул с&apos;а оприт</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="175"/>
         <source>Lock screen after screen is turned off</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокаря екранулуй дупэ че екранул с&apos;а оприт</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="33"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>Утилизатор</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="103"/>
         <source>Add new user</source>
-        <translation type="unfinished"></translation>
+        <translation>Адэугаря унуй утилизатор ноу</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="112"/>
         <location filename="../src/qml/User/Main.qml" line="118"/>
         <source>User name</source>
-        <translation type="unfinished">اسم المستخدم</translation>
+        <translation>Нуме де утилизатор</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="138"/>
         <location filename="../src/qml/User/Main.qml" line="144"/>
         <source>Verify password</source>
-        <translation type="unfinished">التحقق من كلمة المرور</translation>
+        <translation>Верификаря паролей</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="151"/>
         <source>Account type</source>
-        <translation type="unfinished">نوع الحساب</translation>
+        <translation>Тип де конт</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="157"/>
         <source>Standard</source>
-        <translation type="unfinished">اساسي</translation>
+        <translation>Стандарт</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="157"/>
         <source>Administrator</source>
-        <translation type="unfinished">مدير</translation>
+        <translation>Администратор</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="170"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревокаре</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="180"/>
         <source>Add</source>
-        <translation type="unfinished">اضافة</translation>
+        <translation>Адэугаре</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="213"/>
         <source>Add user</source>
-        <translation type="unfinished"></translation>
+        <translation>Адэугаря утилизаторулуй</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="324"/>
         <location filename="../src/qml/User/Main.qml" line="221"/>
         <location filename="../src/qml/WLAN/Main.qml" line="101"/>
         <source>→</source>
-        <translation type="unfinished"></translation>
+        <translation>→</translation>
     </message>
     <message>
         <location filename="../src/qml/Wallpaper/Main.qml" line="14"/>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Фундал</translation>
     </message>
     <message>
         <location filename="../src/qml/Wallpaper/Main.qml" line="52"/>
         <source>Background type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип де фундал</translation>
     </message>
     <message>
         <location filename="../src/qml/Wallpaper/Main.qml" line="68"/>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Имаӂине</translation>
     </message>
     <message>
         <location filename="../src/qml/Wallpaper/Main.qml" line="72"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Кулоаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Wallpaper/Main.qml" line="76"/>
         <source>Custom Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Имаӂинь индивидуале</translation>
     </message>
     <message>
         <location filename="../src/qml/Wallpaper/Main.qml" line="324"/>
         <source>Use Custom Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Утилизаря имаӂинилор индивидуале</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/Main.qml" line="15"/>
         <source>WLAN</source>
-        <translation type="unfinished"></translation>
+        <translation>Реця локалэ фэрэ фир (WLAN)</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/Main.qml" line="93"/>
@@ -770,7 +770,7 @@
         <location filename="../src/qml/Bluetooth/Main.qml" line="12"/>
         <location filename="../src/qml/Bluetooth/Main.qml" line="75"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="48"/>
@@ -805,7 +805,7 @@
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="207"/>
         <source>Connect</source>
-        <translation type="unfinished">توصيل</translation>
+        <translation>Конектаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="219"/>
@@ -836,17 +836,17 @@
     <message>
         <location filename="../src/qml/Application/Main.qml" line="35"/>
         <source>Web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Обсерватор-веб</translation>
     </message>
     <message>
         <location filename="../src/qml/Application/Main.qml" line="43"/>
         <source>File manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Манаӂер де фишиере</translation>
     </message>
     <message>
         <location filename="../src/qml/Application/Main.qml" line="51"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Поштэ електроникэ</translation>
     </message>
     <message>
         <location filename="../src/qml/Application/Main.qml" line="59"/>
@@ -1112,12 +1112,12 @@
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="87"/>
         <source>Security</source>
-        <translation type="unfinished">الأمان</translation>
+        <translation>Секуритате</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="94"/>
         <source>None</source>
-        <translation type="unfinished">بدون</translation>
+        <translation>Липсеште</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="99"/>
@@ -1129,7 +1129,7 @@
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="113"/>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="119"/>
         <source>Password</source>
-        <translation type="unfinished">كلمة المرور</translation>
+        <translation>Паролэ</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="130"/>
@@ -1221,7 +1221,7 @@
     <message>
         <location filename="../src/qml/SideBar.qml" line="77"/>
         <source>Bluetooth</source>
-        <translation type="unfinished">البلوتوث</translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="87"/>
@@ -1428,17 +1428,17 @@
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="171"/>
         <source>Account type</source>
-        <translation type="unfinished">نوع الحساب</translation>
+        <translation>Тип де конт</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="175"/>
         <source>Standard</source>
-        <translation type="unfinished">اساسي</translation>
+        <translation>Стандарт</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="176"/>
         <source>Administrator</source>
-        <translation type="unfinished">مدير</translation>
+        <translation>Администратор</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="180"/>
@@ -1456,13 +1456,13 @@
         <location filename="../src/qml/User/UserDelegateItem.qml" line="217"/>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="223"/>
         <source>Password</source>
-        <translation type="unfinished">كلمة المرور</translation>
+        <translation>Паролэ</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="230"/>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="236"/>
         <source>Verify password</source>
-        <translation type="unfinished">التحقق من كلمة المرور</translation>
+        <translation>Верификаря паролей</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="249"/>
