@@ -620,37 +620,37 @@
     <message>
         <location filename="../src/qml/Power/Main.qml" line="118"/>
         <source>Turn off screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключение экрана при бездействии</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="126"/>
         <source>2 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>2 минуты</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="127"/>
         <source>5 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 минут</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="128"/>
         <source>10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 минут</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="129"/>
         <source>15 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 минут</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="130"/>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 минут</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="131"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Никогда</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="163"/>
@@ -679,7 +679,7 @@
     <message>
         <location filename="../src/qml/User/Main.qml" line="103"/>
         <source>Add new user</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить нового пользователя</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="112"/>
