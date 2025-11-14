@@ -950,7 +950,7 @@
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="29"/>
         <source>Date &amp; Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата и время</translation>
     </message>
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="57"/>
@@ -960,12 +960,12 @@
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="75"/>
         <source>24-Hour Time</source>
-        <translation type="unfinished"></translation>
+        <translation>24-часовой формат времени</translation>
     </message>
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="104"/>
         <source>Time Zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Часовой пояс</translation>
     </message>
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="30"/>
