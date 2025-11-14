@@ -309,7 +309,7 @@
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="134"/>
         <source>Minimize animation</source>
-        <translation>مؤثرات تقليل  الشاشة</translation>
+        <translation>مؤثرات تقليل الشاشة</translation>
     </message>
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="143"/>
