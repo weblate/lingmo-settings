@@ -600,7 +600,7 @@
     <message>
         <location filename="../src/qml/Power/Main.qml" line="33"/>
         <source>Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Алиментаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="71"/>
@@ -615,7 +615,7 @@
     <message>
         <location filename="../src/qml/Power/Main.qml" line="93"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Продуктивитате</translation>
     </message>
     <message>
         <location filename="../src/qml/Power/Main.qml" line="106"/>
@@ -764,7 +764,7 @@
     <message>
         <location filename="../src/qml/WLAN/Main.qml" line="93"/>
         <source>Add other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Адэугаря алтор…</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="12"/>
@@ -790,17 +790,17 @@
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="117"/>
         <source>Other devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Алте диспозитиве</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="188"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Конектат</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="188"/>
         <source>Not Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ну есте конектат</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="207"/>
@@ -810,7 +810,7 @@
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="219"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Деконектаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="228"/>
@@ -821,17 +821,17 @@
         <location filename="../src/qml/Wired/Main.qml" line="34"/>
         <location filename="../src/qml/Wired/Main.qml" line="82"/>
         <source>Ethernet</source>
-        <translation type="unfinished"></translation>
+        <translation>Реця ку фир (Ethernet)</translation>
     </message>
     <message>
         <location filename="../src/qml/Application/Main.qml" line="13"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Апликацие</translation>
     </message>
     <message>
         <location filename="../src/qml/Application/Main.qml" line="25"/>
         <source>Default application</source>
-        <translation type="unfinished"></translation>
+        <translation>Апликацие импличитэ</translation>
     </message>
     <message>
         <location filename="../src/qml/Application/Main.qml" line="35"/>
@@ -857,7 +857,7 @@
         <location filename="../src/qml/Hotspot/Main.qml" line="34"/>
         <location filename="../src/qml/Hotspot/Main.qml" line="71"/>
         <source>Hotspot</source>
-        <translation type="unfinished"></translation>
+        <translation>Пункт де акчес</translation>
     </message>
     <message>
         <location filename="../src/qml/Hotspot/Main.qml" line="49"/>
@@ -874,7 +874,7 @@
         <location filename="../src/qml/User/Main.qml" line="125"/>
         <location filename="../src/qml/User/Main.qml" line="131"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Паролэ</translation>
     </message>
     <message>
         <location filename="../src/qml/Hotspot/Main.qml" line="131"/>
@@ -885,7 +885,7 @@
     <message>
         <location filename="../src/qml/Cursor/Main.qml" line="14"/>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Шоричел</translation>
     </message>
     <message>
         <location filename="../src/qml/Cursor/Main.qml" line="44"/>
@@ -906,7 +906,7 @@
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="29"/>
         <source>Date &amp; Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Датэ ши орэ</translation>
     </message>
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="57"/>
@@ -916,12 +916,12 @@
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="75"/>
         <source>24-Hour Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат де 24 де оре</translation>
     </message>
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="104"/>
         <source>Time Zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Фус орар</translation>
     </message>
     <message>
         <location filename="../src/qml/Accessibility/Main.qml" line="14"/>
@@ -966,17 +966,17 @@
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="30"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Апликаций импличите</translation>
     </message>
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="50"/>
         <source>Web Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Обсерватор-веб</translation>
     </message>
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="67"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Манаӂер де фишиере</translation>
     </message>
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="84"/>
@@ -986,27 +986,27 @@
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="101"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Терминал</translation>
     </message>
     <message>
         <location filename="../src/qml/Notification/Main.qml" line="29"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Нотификэрь</translation>
     </message>
     <message>
         <location filename="../src/qml/Notification/Main.qml" line="46"/>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Ну деранжаць</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="32"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер-прокси</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="70"/>
         <source>No Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Нич ун сервер-прокси</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="79"/>
@@ -1021,19 +1021,19 @@
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="121"/>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Селектаря фишиерулуй</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="135"/>
         <source>HTTP Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер-прокси HTTP</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="149"/>
         <location filename="../src/qml/Proxy/Main.qml" line="205"/>
         <location filename="../src/qml/Proxy/Main.qml" line="239"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Порт</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="172"/>
@@ -1043,17 +1043,17 @@
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="190"/>
         <source>FTP Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер-прокси FTP</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="224"/>
         <source>SOCKS Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер-прокси SOCKS</translation>
     </message>
     <message>
         <location filename="../src/qml/Sound/Main.qml" line="30"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Сунет</translation>
     </message>
     <message>
         <location filename="../src/qml/Sound/Main.qml" line="85"/>
@@ -1068,7 +1068,7 @@
     <message>
         <location filename="../src/qml/Touchpad/Main.qml" line="29"/>
         <source>Touchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>Паноу тактил</translation>
     </message>
     <message>
         <location filename="../src/qml/Touchpad/Main.qml" line="53"/>
@@ -1089,12 +1089,12 @@
         <location filename="../src/qml/VPN/Main.qml" line="29"/>
         <location filename="../src/qml/VPN/Main.qml" line="55"/>
         <source>VPN</source>
-        <translation type="unfinished"></translation>
+        <translation>Реця приватэ виртуалэ (VPN)</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/Main.qml" line="11"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Реынноире</translation>
     </message>
 </context>
 <context>
@@ -1102,12 +1102,12 @@
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="76"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Нуме</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="81"/>
         <source>Network Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Нуме де реця</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="87"/>
@@ -1122,7 +1122,7 @@
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="99"/>
         <source>UserName</source>
-        <translation type="unfinished"></translation>
+        <translation>Нуме де утилизатор</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="105"/>
@@ -1134,12 +1134,12 @@
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="130"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревокаре</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="139"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Адераре</translation>
     </message>
 </context>
 <context>
@@ -1152,12 +1152,12 @@
     <message>
         <location filename="../src/qml/Bluetooth/PairDialog.qml" line="70"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревокаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/PairDialog.qml" line="79"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфирмаре</translation>
     </message>
 </context>
 <context>
@@ -1175,7 +1175,7 @@
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="488"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Липсеште</translation>
     </message>
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="490"/>
@@ -1185,7 +1185,7 @@
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="492"/>
         <source>Full</source>
-        <translation type="unfinished"></translation>
+        <translation>Комплект</translation>
     </message>
 </context>
 <context>
@@ -1193,17 +1193,17 @@
     <message>
         <location filename="../src/qml/SideBar.qml" line="137"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>Утилизатор</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="97"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="57"/>
         <source>WLAN</source>
-        <translation type="unfinished"></translation>
+        <translation>Реця локалэ фэрэ фир (WLAN)</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="63"/>
@@ -1211,12 +1211,12 @@
         <location filename="../src/qml/SideBar.qml" line="83"/>
         <location filename="../src/qml/SideBar.qml" line="93"/>
         <source>Network and connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Реця ши конексиуне</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="67"/>
         <source>Ethernet</source>
-        <translation type="unfinished"></translation>
+        <translation>Реця ку фир (Ethernet)</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="77"/>
@@ -1226,7 +1226,7 @@
     <message>
         <location filename="../src/qml/SideBar.qml" line="87"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер-прокси</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="103"/>
@@ -1234,32 +1234,32 @@
         <location filename="../src/qml/SideBar.qml" line="123"/>
         <location filename="../src/qml/SideBar.qml" line="133"/>
         <source>Display and appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран ши аспект</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="107"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Аспект</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="147"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Нотификэрь</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="157"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Сунет</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="167"/>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Шоричел</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="260"/>
         <source>System &amp; Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Систем ши реынноире</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -1268,12 +1268,12 @@
     <message>
         <location filename="../src/qml/SideBar.qml" line="117"/>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Фундал</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="127"/>
         <source>Dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Док</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="143"/>
@@ -1288,47 +1288,47 @@
         <location filename="../src/qml/SideBar.qml" line="233"/>
         <location filename="../src/qml/SideBar.qml" line="242"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Систем</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="177"/>
         <source>Touchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>Паноу тактил</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="187"/>
         <source>Date &amp; Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Датэ ши орэ</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="197"/>
         <source>Accessibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Посибилитэць спечиале</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="207"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Апликаций импличите</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="217"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Лимбэ</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="227"/>
         <source>Battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Батерие</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="237"/>
         <source>Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Алиментаре</translation>
     </message>
     <message>
         <location filename="../src/qml/SideBar.qml" line="255"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Деспре систем</translation>
     </message>
 </context>
 <context>
@@ -1336,12 +1336,12 @@
     <message>
         <location filename="../src/qml/DateTime/TimeZoneDialog.qml" line="143"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревокаре</translation>
     </message>
     <message>
         <location filename="../src/qml/DateTime/TimeZoneDialog.qml" line="148"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталаре</translation>
     </message>
 </context>
 <context>
@@ -1349,7 +1349,7 @@
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatePage.qml" line="78"/>
         <source>Package updates are available</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакете де реынноире сынт диспонибиле</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatePage.qml" line="85"/>
@@ -1415,7 +1415,7 @@
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatingPage.qml" line="44"/>
         <source>Updating, please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Систем се реынноеште, аштептаць</translation>
     </message>
 </context>
 <context>
@@ -1443,14 +1443,14 @@
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="180"/>
         <source>Automatic login</source>
-        <translation type="unfinished"></translation>
+        <translation>Ынтраре ын конт аутоматэ</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="206"/>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="255"/>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="274"/>
         <source>Change password</source>
-        <translation type="unfinished"></translation>
+        <translation>Скимбаря паролей</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="217"/>
@@ -1467,12 +1467,12 @@
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="249"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревокаре</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="282"/>
         <source>Delete this user</source>
-        <translation type="unfinished"></translation>
+        <translation>Штерӂеря ачестуй утилизатор</translation>
     </message>
 </context>
 <context>
@@ -1481,7 +1481,7 @@
         <location filename="../src/qml/WLAN/WifiItem.qml" line="206"/>
         <location filename="../src/qml/WLAN/WifiItem.qml" line="214"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Паролэ</translation>
     </message>
     <message>
         <source>Show password</source>
@@ -1490,18 +1490,18 @@
     <message>
         <location filename="../src/qml/WLAN/WifiItem.qml" line="228"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревокаре</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WifiItem.qml" line="233"/>
         <location filename="../src/qml/WLAN/WifiItem.qml" line="245"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Конектаре</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WifiItem.qml" line="259"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Деконектаре</translation>
     </message>
 </context>
 <context>
@@ -1509,7 +1509,7 @@
     <message>
         <location filename="../src/qml/WLAN/WifiView.qml" line="52"/>
         <source>WLAN</source>
-        <translation type="unfinished"></translation>
+        <translation>Реця локалэ фэрэ фир (WLAN)</translation>
     </message>
 </context>
 <context>
@@ -1517,47 +1517,47 @@
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="66"/>
         <source>Auto-Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Адераре аутоматэ</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="82"/>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Секуритате</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="94"/>
         <source>Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Семнал</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="106"/>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адресэ IPv4</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="120"/>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адресэ IPv6</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="134"/>
         <source>MAC Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адресэ MAC</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="148"/>
         <source>Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Поартэ де акчес (Gateway)</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="161"/>
         <source>DNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Системул нумелор де домений (DNS)</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="178"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Ынкидере</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="184"/>
@@ -1570,7 +1570,7 @@
     <message>
         <location filename="../src/qml/main.qml" line="32"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Реглаже</translation>
     </message>
 </context>
 </TS>
