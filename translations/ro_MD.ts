@@ -69,7 +69,7 @@
     <message>
         <location filename="../src/qml/ChangeDialog.qml" line="190"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфирмаре</translation>
     </message>
 </context>
 <context>
@@ -77,12 +77,12 @@
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="67"/>
         <source>Enter Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Ынтродучець парола</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="79"/>
         <source>Enter the password for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ынтродучець парола пентру %1</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="89"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="114"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ревокаре</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="120"/>
@@ -105,22 +105,22 @@
     <message>
         <location filename="../src/qml/SystemUpdate/FinishedPage.qml" line="52"/>
         <source>The update is complete and we recommend that you restart your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прочесул де реынноире а фост финисат, се рекомандэ репорниря системулуй.</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/FinishedPage.qml" line="59"/>
         <source>Update failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ну с&apos;а реушит реынноире</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/FinishedPage.qml" line="71"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ешире</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/FinishedPage.qml" line="78"/>
         <source>Reboot</source>
-        <translation type="unfinished"></translation>
+        <translation>Репорнире</translation>
     </message>
 </context>
 <context>
@@ -134,7 +134,7 @@
         <location filename="../src/qml/SystemUpdate/FirstPage.qml" line="91"/>
         <location filename="../src/qml/SystemUpdate/FirstPage.qml" line="204"/>
         <source>Current Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Версиуне курентэ: %1</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/FirstPage.qml" line="107"/>
@@ -149,12 +149,12 @@
     <message>
         <location filename="../src/qml/SystemUpdate/FirstPage.qml" line="219"/>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Реынноире акум</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/FirstPage.qml" line="329"/>
         <source>Lingmo OS</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingmo OS</translation>
     </message>
 </context>
 <context>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../src/qml/SystemUpdate/HomePage.qml" line="65"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Се верификэ диспонибилитатя реынноирий…</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/HomePage.qml" line="88"/>
@@ -180,7 +180,7 @@
     <message>
         <location filename="../src/qml/LanguagePage.qml" line="12"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Лимбэ</translation>
     </message>
 </context>
 <context>
@@ -188,7 +188,7 @@
     <message>
         <location filename="../src/qml/About/Main.qml" line="14"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Деспре систем</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="157"/>
@@ -981,7 +981,7 @@
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="84"/>
         <source>Email Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент де поштэ електроникэ</translation>
     </message>
     <message>
         <location filename="../src/qml/DefaultApp/Main.qml" line="101"/>
@@ -1349,27 +1349,27 @@
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatePage.qml" line="78"/>
         <source>Package updates are available</source>
-        <translation>Пакете де реынноире сынт диспонибиле</translation>
+        <translation>Реынноиря пакетелор есте диспонибилэ</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatePage.qml" line="85"/>
         <source>Your system is up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Системул думнявоастрэ ну нечеситэ реынноире</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatePage.qml" line="91"/>
         <source>Current Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Версиуне курентэ: %1</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatePage.qml" line="172"/>
         <source>Lingmo OS</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingmo OS</translation>
     </message>
     <message>
         <location filename="../src/qml/SystemUpdate/UpdatePage.qml" line="259"/>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Реынноире акум</translation>
     </message>
 </context>
 <context>
@@ -1377,37 +1377,37 @@
     <message>
         <location filename="../src/qml/Update/UpdateTitleBar.qml" line="52"/>
         <source>You&apos;re up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Системул ну нечеситэ реынноире</translation>
     </message>
     <message>
         <location filename="../src/qml/Update/UpdateTitleBar.qml" line="54"/>
         <source>Updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Реынноире есте диспонибилэ</translation>
     </message>
     <message>
         <location filename="../src/qml/Update/UpdateTitleBar.qml" line="56"/>
         <source>Installing updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Систем се реынноеште</translation>
     </message>
     <message>
         <location filename="../src/qml/Update/UpdateTitleBar.qml" line="58"/>
         <source>Checking updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Се верификэ диспонибилитатя реынноирий</translation>
     </message>
     <message>
         <location filename="../src/qml/Update/UpdateTitleBar.qml" line="60"/>
         <source>Error occurs in updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ын прочесул де реынноире а апэрут о ероаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Update/UpdateTitleBar.qml" line="88"/>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Верификаре пентру реынноире</translation>
     </message>
     <message>
         <location filename="../src/qml/Update/UpdateTitleBar.qml" line="102"/>
         <source>Update Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Реынноире акум</translation>
     </message>
 </context>
 <context>
