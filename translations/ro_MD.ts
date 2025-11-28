@@ -1038,7 +1038,7 @@
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="172"/>
         <source>Also use this proxy for FTP</source>
-        <translation type="unfinished"></translation>
+        <translation>Де асеменя, утилизаря ачестуй сервер-прокси пентру FTP</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="190"/>
@@ -1058,12 +1058,12 @@
     <message>
         <location filename="../src/qml/Sound/Main.qml" line="85"/>
         <source>Output Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Диспозитиве де ешире</translation>
     </message>
     <message>
         <location filename="../src/qml/Sound/Main.qml" line="174"/>
         <source>Input Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Диспозитиве де ынтраре</translation>
     </message>
     <message>
         <location filename="../src/qml/Touchpad/Main.qml" line="29"/>
@@ -1073,17 +1073,17 @@
     <message>
         <location filename="../src/qml/Touchpad/Main.qml" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Активаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Touchpad/Main.qml" line="72"/>
         <source>Tap to click</source>
-        <translation type="unfinished"></translation>
+        <translation>Атинӂець пентру а фаче клик</translation>
     </message>
     <message>
         <location filename="../src/qml/Touchpad/Main.qml" line="108"/>
         <source>Pointer acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>Акчелерация индикаторулуй</translation>
     </message>
     <message>
         <location filename="../src/qml/VPN/Main.qml" line="29"/>
@@ -1147,7 +1147,7 @@
     <message>
         <location filename="../src/qml/Bluetooth/PairDialog.qml" line="53"/>
         <source>Bluetooth Pairing Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Черере де асочиере Bluetooth</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/PairDialog.qml" line="70"/>
@@ -1165,12 +1165,12 @@
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="484"/>
         <source>Vendor default</source>
-        <translation type="unfinished"></translation>
+        <translation>Импличит стабилит де фурнизор</translation>
     </message>
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="486"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Медиу</translation>
     </message>
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="488"/>
@@ -1180,7 +1180,7 @@
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="490"/>
         <source>Slight</source>
-        <translation type="unfinished"></translation>
+        <translation>Ну пря маре</translation>
     </message>
     <message>
         <location filename="../src/fonts/kxftconfig.cpp" line="492"/>
@@ -1423,7 +1423,7 @@
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="136"/>
         <source>Currently logged</source>
-        <translation type="unfinished"></translation>
+        <translation>Акум ын систем</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="171"/>
@@ -1562,7 +1562,7 @@
     <message>
         <location filename="../src/qml/WLAN/WirelessDetailsDialog.qml" line="184"/>
         <source>Forget this network</source>
-        <translation type="unfinished"></translation>
+        <translation>Елиминаре дин рецеле куноскуте</translation>
     </message>
 </context>
 <context>
