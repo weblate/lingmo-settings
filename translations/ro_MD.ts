@@ -41,12 +41,12 @@
     <message>
         <location filename="../src/qml/BluetoothPage.qml" line="11"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../src/qml/BluetoothPage.qml" line="31"/>
         <source>Bluetooth is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth есте дезактиват</translation>
     </message>
 </context>
 <context>
@@ -54,17 +54,17 @@
     <message>
         <location filename="../src/qml/ChangeDialog.qml" line="25"/>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Диспозитив</translation>
     </message>
     <message>
         <location filename="../src/qml/ChangeDialog.qml" line="163"/>
         <source>Enter your new device name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ынтродучець ун нуме пентру диспозитив ноу</translation>
     </message>
     <message>
         <location filename="../src/qml/ChangeDialog.qml" line="173"/>
         <source>New device name</source>
-        <translation type="unfinished"></translation>
+        <translation>Нуме пентру диспозитив ноу</translation>
     </message>
     <message>
         <location filename="../src/qml/ChangeDialog.qml" line="190"/>
@@ -193,47 +193,47 @@
     <message>
         <location filename="../src/qml/About/Main.qml" line="157"/>
         <source>OS Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версиуне СО</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="279"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Прочесор</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="268"/>
         <source>Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Диск</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="200"/>
         <source>Debian Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версиуне Debian</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="201"/>
         <source>13 Trixie</source>
-        <translation type="unfinished"></translation>
+        <translation>13 Trixie</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="210"/>
         <source>Linux Kernel Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версиуня нуклеулуй Linux</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="211"/>
         <source>Linux </source>
-        <translation type="unfinished"></translation>
+        <translation>Linux </translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="220"/>
         <source>Lingmo UI Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версиуне Lingmo UI</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="316"/>
         <source>System Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Реынноиря системулуй</translation>
     </message>
     <message>
         <location filename="../src/qml/About/Main.qml" line="332"/>
@@ -256,7 +256,7 @@
     <message>
         <location filename="../src/qml/About/Main.qml" line="231"/>
         <source>System Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип де систем</translation>
     </message>
     <message>
         <source>Kernel Version</source>
@@ -269,7 +269,7 @@
     <message>
         <location filename="../src/qml/About/Main.qml" line="258"/>
         <source>RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>Меморие RAM</translation>
     </message>
     <message>
         <source>Internal Storage</source>
@@ -278,23 +278,23 @@
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="13"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Аспект</translation>
     </message>
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="61"/>
         <location filename="../src/qml/Cursor/Main.qml" line="123"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Темэ</translation>
     </message>
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="71"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Луминоасэ</translation>
     </message>
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="78"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ынтунекоасэ</translation>
     </message>
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="91"/>
@@ -329,12 +329,12 @@
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="231"/>
         <source>Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Стилурь де карактере</translation>
     </message>
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="242"/>
         <source>General Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Стил де карактере ӂенерал</translation>
     </message>
     <message>
         <location filename="../src/qml/Appearance/Main.qml" line="259"/>
@@ -397,7 +397,7 @@
     <message>
         <location filename="../src/qml/Battery/Main.qml" line="11"/>
         <source>Battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Батерие</translation>
     </message>
     <message>
         <location filename="../src/qml/Battery/Main.qml" line="14"/>
@@ -477,12 +477,12 @@
     <message>
         <location filename="../src/qml/Battery/Main.qml" line="296"/>
         <source>No battery found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ну с&apos;а гэсит нич о батерие</translation>
     </message>
     <message>
         <location filename="../src/qml/Display/Main.qml" line="30"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран</translation>
     </message>
     <message>
         <location filename="../src/qml/Display/Main.qml" line="68"/>
@@ -517,7 +517,7 @@
     <message>
         <location filename="../src/qml/Display/Main.qml" line="260"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Активат</translation>
     </message>
     <message>
         <location filename="../src/qml/Display/Main.qml" line="291"/>
@@ -531,7 +531,7 @@
     <message>
         <location filename="../src/qml/Dock/Main.qml" line="10"/>
         <source>Dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Док</translation>
     </message>
     <message>
         <location filename="../src/qml/Dock/Main.qml" line="27"/>
@@ -775,12 +775,12 @@
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="48"/>
         <source>Pairing unsuccessful</source>
-        <translation type="unfinished"></translation>
+        <translation>Ну с&apos;а реушит асочиеря</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="52"/>
         <source>Connecting Unsuccessful</source>
-        <translation type="unfinished"></translation>
+        <translation>Ну с&apos;а реушит конектаря</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="116"/>
@@ -815,7 +815,7 @@
     <message>
         <location filename="../src/qml/Bluetooth/Main.qml" line="228"/>
         <source>Forget This Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Елиминаре дин диспозитиве куноскуте</translation>
     </message>
     <message>
         <location filename="../src/qml/Wired/Main.qml" line="34"/>
@@ -867,7 +867,7 @@
     <message>
         <location filename="../src/qml/Hotspot/Main.qml" line="104"/>
         <source>SSID</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификатор SSID</translation>
     </message>
     <message>
         <location filename="../src/qml/Hotspot/Main.qml" line="115"/>
@@ -880,7 +880,7 @@
         <location filename="../src/qml/Hotspot/Main.qml" line="131"/>
         <location filename="../src/qml/Proxy/Main.qml" line="268"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Меморизаре</translation>
     </message>
     <message>
         <location filename="../src/qml/Cursor/Main.qml" line="14"/>
@@ -890,7 +890,7 @@
     <message>
         <location filename="../src/qml/Cursor/Main.qml" line="44"/>
         <source>Left hand</source>
-        <translation type="unfinished"></translation>
+        <translation>Пентру стынгач (ордине инверсэ а бутоанелор)</translation>
     </message>
     <message>
         <location filename="../src/qml/Cursor/Main.qml" line="57"/>
@@ -901,7 +901,7 @@
     <message>
         <location filename="../src/qml/Cursor/Main.qml" line="97"/>
         <source>Pointer speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Витеза индикаторулуй</translation>
     </message>
     <message>
         <location filename="../src/qml/DateTime/Main.qml" line="29"/>
@@ -926,7 +926,7 @@
     <message>
         <location filename="../src/qml/Accessibility/Main.qml" line="14"/>
         <source>Accessibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Посибилитэць спечиале</translation>
     </message>
     <message>
         <location filename="../src/qml/Accessibility/Main.qml" line="31"/>
@@ -1011,12 +1011,12 @@
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="79"/>
         <source>Use proxy auto configuration URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Утилизаря адресей URL де регларе аутоматэ а серверулуй-прокси</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="89"/>
         <source>Use manually specified proxy configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Утилизаря реглажелор сервер-прокси спечификате мануал</translation>
     </message>
     <message>
         <location filename="../src/qml/Proxy/Main.qml" line="121"/>
