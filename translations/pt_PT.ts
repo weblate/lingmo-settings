@@ -92,12 +92,12 @@
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="114"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/ConnectDialog.qml" line="120"/>
         <source>Connect</source>
-        <translation type="unfinished">Ligar</translation>
+        <translation>Ligar</translation>
     </message>
 </context>
 <context>
@@ -685,7 +685,7 @@
         <location filename="../src/qml/User/Main.qml" line="112"/>
         <location filename="../src/qml/User/Main.qml" line="118"/>
         <source>User name</source>
-        <translation type="unfinished">Nome de utilizador</translation>
+        <translation>Nome de utilizador</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="138"/>
@@ -701,17 +701,17 @@
     <message>
         <location filename="../src/qml/User/Main.qml" line="157"/>
         <source>Standard</source>
-        <translation type="unfinished">Padrão</translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="157"/>
         <source>Administrator</source>
-        <translation type="unfinished">Administrador</translation>
+        <translation>Administrador</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="170"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../src/qml/User/Main.qml" line="180"/>
@@ -1138,7 +1138,7 @@
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="130"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../src/qml/WLAN/NewNetworkDialog.qml" line="139"/>
@@ -1156,7 +1156,7 @@
     <message>
         <location filename="../src/qml/Bluetooth/PairDialog.qml" line="70"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../src/qml/Bluetooth/PairDialog.qml" line="79"/>
@@ -1340,7 +1340,7 @@
     <message>
         <location filename="../src/qml/DateTime/TimeZoneDialog.qml" line="143"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../src/qml/DateTime/TimeZoneDialog.qml" line="148"/>
@@ -1432,17 +1432,17 @@
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="171"/>
         <source>Account type</source>
-        <translation type="unfinished">Tipo de conta</translation>
+        <translation>Tipo de conta</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="175"/>
         <source>Standard</source>
-        <translation type="unfinished">Padrão</translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="176"/>
         <source>Administrator</source>
-        <translation type="unfinished">Administrador</translation>
+        <translation>Administrador</translation>
     </message>
     <message>
         <location filename="../src/qml/User/UserDelegateItem.qml" line="180"/>
